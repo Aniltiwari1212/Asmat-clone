@@ -1,0 +1,99 @@
+@media(min-width:992px){
+    .e-Digital .row > div:first-child .flex-shrink-0 {
+        order: 1;
+        margin-left: 20px;
+        margin-right: 0;
+    }
+    .e-Digital .row > div:first-child .flex-grow-1 {
+        text-align: right;
+    }
+    .asmat-midimg {
+        margin: -70px -140px 0;
+    }
+}
+@media(max-width:1199.98px){
+    .navbar-nav .nav-item {
+        padding-right: 0px;
+    }
+    .header-btn .main-btn{
+        padding: 10px 16px;
+    }
+    .banner h1 {
+        font-size: 50px;
+        padding-bottom: 15px;
+    }
+    .get-form h2{
+        font-size: 32px;
+    }
+    .main-heading h2{
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    .learn-list h3 {
+        font-size: 20px;
+        width: 55%;
+    }
+    .popular-course ul li{
+        font-size: 16px;
+    }
+    .list-btn .btn{
+        padding: 8px 30px;
+    }
+    .count-box h3 span{
+        font-size: 28px;
+    }
+    .main-heading p {
+        padding-top: 20px;
+    }
+    .journt-btn .main-btn{
+        font-size: 14px;
+    }
+}
+
+@media(max-width:991.98px){
+    .banner-left {
+        text-align: center;
+    }
+    .bnr-btn {
+        margin: 20px 0 40px;
+    }
+    .learn-list {
+        padding-bottom: 20px;
+        padding-top: 40px;
+    }
+    .count-box {
+        top:0;
+        margin-bottom: 35px;
+    }
+    .smallfeaBox{
+        margin-top: 30px;
+    }
+}
+@media(max-width:767.98px){
+    .banner h1 {
+        font-size: 38px;
+        padding-bottom: 0px;
+    }
+    .banner h4 {
+        font-size: 25px;
+    }
+    .black-btn{
+        padding: 8px 20px;
+    }
+    .bnr-btn span {
+        margin-left: 15px;
+    }
+    .get-form {
+        float: none;
+        width: 100%;
+    }
+    .talk-us {
+        font-size: 12px;
+    }
+    .courselist-box {
+        margin-left: 0px;
+    }
+    .list-btn {
+        text-align: center;
+    }
+}
